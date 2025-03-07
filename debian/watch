@@ -1,0 +1,3 @@
+version=4
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/s2-geometry-library-java-$1\.tar\.gz/ \
+  https://github.com/io-sgr/s2-geometry-library-java/tags .*/v?(\d\S+)\.tar\.gz
