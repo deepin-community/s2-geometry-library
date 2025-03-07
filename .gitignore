@@ -1,0 +1,17 @@
+.DS_Store
+
+# Eclipse stuff
+/.settings
+/bin
+/target
+/.classpath
+/.project
+
+# Intellij IDEA stuff:
+.idea/
+*.iml
+
+# Gradle stuff
+.gradle/
+build
+

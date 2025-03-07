@@ -1,0 +1,8 @@
+
+org.apache.maven.plugins maven-gpg-plugin * * * *
+org.apache.maven.plugins maven-release-plugin * * * *
+org.apache.maven.plugins maven-source-plugin * * * *
+org.apache.maven.plugins maven-surefire-plugin * * * *
+org.jacoco jacoco-maven-plugin * * * *
+io.sgr common-dependencies * * * *
+junit junit * * * *
